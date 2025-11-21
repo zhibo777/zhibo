@@ -1,10 +1,14 @@
 广东频道,#genre#
+广东卫视HD,http://120.76.248.139/live/bfgd/4200000092.m3u8
 广东卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/gdwshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=$源:2e52#https://hlsbkmgsplive.miguvideo.com/migu/kailu/gdwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=$源:d2e1#http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226248/index.m3u8#
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000014176/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000014176#http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 深圳卫视HD,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226688/1.m3u8
 金鹰互通,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226667/1.m3u8
+河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8#http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8?zguangd
+河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 
+清新综合台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8#http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 
 央视频道,#genre#
 CCTV-1 综合,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
@@ -31,7 +35,6 @@ CCTV-17 农业农村,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/
 湖南卫视HD,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226698/1.m3u8
 江西卫视HD,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226682/1.m3u8
 江西卫视HD,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226726/1.m3u8
-
 北京卫视HD,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226719/1.m3u8
 东方卫视HD,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226734/1.m3u8
 天津卫视HD,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226686/1.m3u8
@@ -44,8 +47,7 @@ CCTV-17 农业农村,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/
 甘肃卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226662/1.m3u8
 青海卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226696/1.m3u8
 陕西卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226707/1.m3u8
-河北卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226665/1.m3u8
-河北卫视HD,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226684/1.m3u8
+河北卫视HD,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226684/1.m3u8#http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226665/1.m3u8
 山西卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226704/1.m3u8
 山东卫视HD,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226693/1.m3u8
 安徽卫视HD,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226655/1.m3u8
@@ -60,13 +62,11 @@ CCTV-17 农业农村,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/
 云南卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226709/1.m3u8
 贵州卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226676/1.m3u8
 贵州卫视HD,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226672/1.m3u8
-四川卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226697/1.m3u8
-四川卫视HD,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226659/1.m3u8
+四川卫视HD,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226659/1.m3u8#http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226697/1.m3u8
 新疆卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226700/1.m3u8
 兵团卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226661/1.m3u8
 西藏卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226710/1.m3u8
-海南卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226683/1.m3u8
-海南卫视HD,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226679/1.m3u8
+海南卫视HD,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226679/1.m3u8#http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226683/1.m3u8
 
 
 
